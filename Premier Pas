@@ -1,0 +1,3 @@
+git init //You have created your local repository.
+ssh-keygen -t rsa -b 4096 -C "adressmail" 
+lien entre mon local et github avec SSH keys suivre les étapes sur: https://openclassrooms.com/fr/courses/5671626-manage-your-code-project-with-git-github-old-version/6151991-write-code-efficiently-by-using-a-local-repository
